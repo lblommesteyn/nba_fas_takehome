@@ -1,3 +1,3 @@
 # nba_fas_takehome
 
-This code has my analysis for the FAS 2024 takehome assignment.
+This repository has my analysis and code for the FAS 2024 takehome assignment.
